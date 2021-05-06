@@ -5143,11 +5143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KenPachi\\source\\repos\\EntiryFrameworkCore\\EntiryFrameworkCore\\EntiryFrameworkCore.csproj",
+      "projectUniqueName": "C:\\Users\\KenPachi\\Documents\\Git Project\\EntityFrameworkCore\\EntiryFrameworkCore\\EntiryFrameworkCore.csproj",
       "projectName": "EntiryFrameworkCore",
-      "projectPath": "C:\\Users\\KenPachi\\source\\repos\\EntiryFrameworkCore\\EntiryFrameworkCore\\EntiryFrameworkCore.csproj",
+      "projectPath": "C:\\Users\\KenPachi\\Documents\\Git Project\\EntityFrameworkCore\\EntiryFrameworkCore\\EntiryFrameworkCore.csproj",
       "packagesPath": "C:\\Users\\KenPachi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KenPachi\\source\\repos\\EntiryFrameworkCore\\EntiryFrameworkCore\\obj\\",
+      "outputPath": "C:\\Users\\KenPachi\\Documents\\Git Project\\EntityFrameworkCore\\EntiryFrameworkCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

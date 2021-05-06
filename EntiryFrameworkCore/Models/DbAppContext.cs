@@ -24,20 +24,20 @@ namespace EntiryFrameworkCore.Models {
             modelBuilder.Entity<User>().HasData(new User {
                 UserId = 1,
                 RoleId = 1,
-                First_Name = "Kenneth Isaac",
-                Last_Name = "Sonza",
-                Email = "kensonza@gmail.com",
-                Username = "k.sonza",
+                First_Name = "Juan",
+                Last_Name = "Dela Cruz",
+                Email = "juan.delacruz@gmail.com",
+                Username = "j.delacruz",
                 Password = "1234567890",
                 Status = 1,
                 Date_Created = DateTime.Now
             }, new User {
                 UserId = 2,
                 RoleId = 2,
-                First_Name = "Maria Carla",
-                Last_Name = "Franco",
-                Email = "crazykalang@yahoo.com",
-                Username = "c.kalang",
+                First_Name = "Steve",
+                Last_Name = "Maps",
+                Email = "steve.maps@yahoo.com",
+                Username = "s.maps",
                 Password = "1234567890",
                 Status = 1,
                 Date_Created = DateTime.Now
